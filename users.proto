@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message User {
+    string usertag = 1;
+    string birth = 2;
+    string parent_usertag = 3;
+}
+
+message Users {
+    repeated User users = 1;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "proto-testing",
+  "version": "1.0.0",
+  "description": "Testing protocol buffers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/all3gu3/proto-testing.git"
+  },
+  "author": "allegue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/all3gu3/proto-testing/issues"
+  },
+  "homepage": "https://github.com/all3gu3/proto-testing#readme",
+  "dependencies": {
+    "protocol-buffers": "^5.0.0"
+  }
+}
